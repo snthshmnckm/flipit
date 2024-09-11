@@ -22,10 +22,7 @@ class MyApp extends StatelessWidget {
               borderRadius: BorderRadius.circular(20),
             ),
             padding: EdgeInsets.all(25),
-            child: Text("Santa"
-              style: View(view: view, child: child),
-            ),
-
+            child: Text("Santa"),
           ),
         ),
       ),
